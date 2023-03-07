@@ -1,8 +1,8 @@
 # 35-2nd-myhoneytrip-backend
-
+u
 ## 팀원
 
- - BACKEND
+ - BACKENDu
  
  안상현, 음정민, 황유정
  
